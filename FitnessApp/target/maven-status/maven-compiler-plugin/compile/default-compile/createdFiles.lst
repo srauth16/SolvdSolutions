@@ -1,0 +1,13 @@
+FitnessApp.class
+Workout.class
+Device.class
+StepGoal.class
+FitnessEntity.class
+Smartphone.class
+StrengthWorkout.class
+WeightGoal.class
+User.class
+WearableDevice.class
+CardioWorkout.class
+ActivityLog.class
+Goal.class
